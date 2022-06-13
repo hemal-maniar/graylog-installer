@@ -6,7 +6,7 @@ The script is fairly easy to set up and the installation process will require qu
 
 ## Steps
 
-`chmod +x graylog.sh`
+`chmod +x graylog.sh`<br>
 `sudo ./graylog.sh`
 
 It is important to run the script with elevated privileges as it writes to config files that can only be configured by an administrator. 
